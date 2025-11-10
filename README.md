@@ -1,3 +1,9 @@
+---
+itemId: some-unique-string-1234
+itemType: Software Item Spec
+Software item type: Safety
+---
+
 # Ketryx-Demo
 
 This is a demo project for use in [Ketryx Platform](https://www.ketryx.com/platform). There is no real code here, but some dependencies and pull requests to showcase various features of Ketryx.
